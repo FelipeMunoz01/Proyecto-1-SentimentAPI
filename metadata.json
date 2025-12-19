@@ -1,0 +1,5 @@
+{
+  "name": "Sentix - AI Sentiment Analyzer",
+  "description": "A comprehensive sentiment analysis platform for customer feedback, integrating advanced AI to classify text as Positive, Neutral, or Negative with high precision and probabilistic insights.",
+  "requestFramePermissions": []
+}
